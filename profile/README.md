@@ -1,12 +1,12 @@
-## Hi there 👋
 
-<!--
+![logo](https://user-images.githubusercontent.com/84909252/228434927-6f7d6452-9612-4b61-b45d-ff559803d726.png)
 
-**Here are some ideas to get you started:**
+## About
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Hi, we are a young company of enthusiastic game developers (at least beginners in gaming). 
+---
+### Project screenshots
+
+<div align="center">
+  <img height="450" src="https://user-images.githubusercontent.com/84909252/228430413-b4cc29cd-79f9-49ec-9f1a-65c89e882d77.png"/>
+</div>
